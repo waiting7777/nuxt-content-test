@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zh-cn/releases", {data:[{}],fetch:[],mutations:[]});
