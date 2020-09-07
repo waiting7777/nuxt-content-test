@@ -1,0 +1,10 @@
+{
+  "title": "Nuxt Content Test",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "waiting7777/nuxt-content-test",
+  "twitter": "@waiting7777"
+}
