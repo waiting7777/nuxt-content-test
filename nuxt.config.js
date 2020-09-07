@@ -5,9 +5,6 @@ export default theme({
   build: {
     publicPath: 'https://waiting7777.github.io'
   },
-  generate: {
-    dir: 'docs'
-  },
   i18n: {
     locales: () => [
         {
