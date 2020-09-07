@@ -3,7 +3,7 @@ import theme from '@nuxt/content-theme-docs'
 export default theme({
   target: 'static',
   generate: {
-    dir: 'doc'
+    dir: 'docs'
   },
   i18n: {
     locales: () => [
