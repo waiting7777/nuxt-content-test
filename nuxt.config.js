@@ -2,6 +2,9 @@ import theme from '@nuxt/content-theme-docs'
 
 export default theme({
   target: 'static',
+  build: {
+    publicPath: 'https://waiting7777.github.io'
+  },
   generate: {
     dir: 'docs'
   },
